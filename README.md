@@ -8,4 +8,4 @@ adding some stuff to learn and see
 
 ## local modification
 
-add new stuff
+new code inside my main.py
